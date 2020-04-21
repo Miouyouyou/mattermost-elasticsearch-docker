@@ -1,8 +1,7 @@
-mattermost-elasticsearch-docker
-===============================
+You want to use this repository instead :
 
-ElasticSearch Dockerfile for use with Mattermost for development purposes.
+https://github.com/mattermost/mattermost-elasticsearch-docker
 
-At the moment, this is just the upstream ElasticSearch container with the ICU plugin installed.
+# What's special about this version ?
 
-You can find this container on Dockerhub at: https://hub.docker.com/r/grundleborg/elasticsearch/
+It's just elastic search with the ICU plugin, for better Unicode handling
